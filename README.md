@@ -13,7 +13,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-![alt text](https://github.com/LoreQ3/zabbix_hw2/blob/main/image1.png)
+![alt text](https://github.com/LoreQ3/zabbix_hw2/blob/main/image0_1.png)
 
  ---
 
