@@ -82,7 +82,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
-![alt text](https://github.com/LoreQ3/zabbix_hw2/blob/main/image0_1.png)
+![alt text](https://github.com/LoreQ3/zabbix_hw2/blob/main/image4.png)
 
 ```bash
 #!/bin/bash
